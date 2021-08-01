@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/A. Flipping Game/cmake-build-debug/CMakeFiles/A__Flipping_Game.dir
+C:/Users/ahmed/CLionProjects/A. Flipping Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/A. Flipping Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/A. Bear and Big Brother/cmake-build-debug/CMakeFiles/A__Bear_and_Big_Brother.dir
+C:/Users/ahmed/CLionProjects/A. Bear and Big Brother/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/A. Bear and Big Brother/cmake-build-debug/CMakeFiles/rebuild_cache.dir

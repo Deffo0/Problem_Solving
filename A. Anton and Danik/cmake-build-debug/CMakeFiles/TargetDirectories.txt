@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/A. Anton and Danik/cmake-build-debug/CMakeFiles/ADAA.dir
+C:/Users/ahmed/CLionProjects/A. Anton and Danik/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/A. Anton and Danik/cmake-build-debug/CMakeFiles/rebuild_cache.dir
