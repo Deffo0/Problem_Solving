@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/A. space navigator/cmake-build-debug/CMakeFiles/A__space_navigator.dir
+C:/Users/ahmed/CLionProjects/A. space navigator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/A. space navigator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

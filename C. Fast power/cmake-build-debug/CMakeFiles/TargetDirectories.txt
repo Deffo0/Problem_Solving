@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/C. Fast power/cmake-build-debug/CMakeFiles/C__Fast_power.dir
+C:/Users/ahmed/CLionProjects/C. Fast power/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/C. Fast power/cmake-build-debug/CMakeFiles/rebuild_cache.dir

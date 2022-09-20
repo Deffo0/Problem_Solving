@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/A.Count Numbers/cmake-build-debug/CMakeFiles/A_Count_Numbers.dir
+C:/Users/ahmed/CLionProjects/A.Count Numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/A.Count Numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

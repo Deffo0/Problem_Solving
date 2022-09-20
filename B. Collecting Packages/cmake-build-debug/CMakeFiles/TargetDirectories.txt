@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/B. Collecting Packages/cmake-build-debug/CMakeFiles/B__Collecting_Packages.dir
+C:/Users/ahmed/CLionProjects/B. Collecting Packages/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/B. Collecting Packages/cmake-build-debug/CMakeFiles/rebuild_cache.dir

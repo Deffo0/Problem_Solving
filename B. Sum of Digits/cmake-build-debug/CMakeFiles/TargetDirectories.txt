@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/B. Sum of Digits/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ahmed/CLionProjects/B. Sum of Digits/cmake-build-debug/CMakeFiles/B__Sum_of_Digits.dir
+C:/Users/ahmed/CLionProjects/B. Sum of Digits/cmake-build-debug/CMakeFiles/edit_cache.dir

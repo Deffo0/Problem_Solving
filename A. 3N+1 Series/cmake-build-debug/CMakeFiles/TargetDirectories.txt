@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/A. 3N+1 Series/cmake-build-debug/CMakeFiles/A__3N_1_Series.dir
+C:/Users/ahmed/CLionProjects/A. 3N+1 Series/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/A. 3N+1 Series/cmake-build-debug/CMakeFiles/rebuild_cache.dir

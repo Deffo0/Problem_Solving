@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/F. Vanya and Label/cmake-build-debug/CMakeFiles/F__Vanya_and_Label.dir
+C:/Users/ahmed/CLionProjects/F. Vanya and Label/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/F. Vanya and Label/cmake-build-debug/CMakeFiles/rebuild_cache.dir

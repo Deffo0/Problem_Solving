@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/B.Bitmask Operation/cmake-build-debug/CMakeFiles/B_Bitmask_Operation.dir
+C:/Users/ahmed/CLionProjects/B.Bitmask Operation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/B.Bitmask Operation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

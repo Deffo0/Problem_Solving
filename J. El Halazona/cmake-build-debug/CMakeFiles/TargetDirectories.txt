@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/J. El Halazona/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ahmed/CLionProjects/J. El Halazona/cmake-build-debug/CMakeFiles/J__El_Halazona.dir
+C:/Users/ahmed/CLionProjects/J. El Halazona/cmake-build-debug/CMakeFiles/edit_cache.dir

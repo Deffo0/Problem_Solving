@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/D.two pointers/cmake-build-debug/CMakeFiles/D_two_pointers.dir
+C:/Users/ahmed/CLionProjects/D.two pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/D.two pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

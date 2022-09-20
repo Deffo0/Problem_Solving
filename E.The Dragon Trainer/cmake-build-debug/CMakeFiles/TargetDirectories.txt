@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/E.The Dragon Trainer/cmake-build-debug/CMakeFiles/E_The_Dragon_Trainer.dir
+C:/Users/ahmed/CLionProjects/E.The Dragon Trainer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/E.The Dragon Trainer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

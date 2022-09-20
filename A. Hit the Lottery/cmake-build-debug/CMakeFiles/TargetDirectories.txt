@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/A. Hit the Lottery/cmake-build-debug/CMakeFiles/A__Hit_the_Lottery.dir
+C:/Users/ahmed/CLionProjects/A. Hit the Lottery/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/A. Hit the Lottery/cmake-build-debug/CMakeFiles/rebuild_cache.dir

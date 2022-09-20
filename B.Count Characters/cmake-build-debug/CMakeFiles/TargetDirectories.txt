@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/B.Count Characters/cmake-build-debug/CMakeFiles/B_Count_Characters.dir
+C:/Users/ahmed/CLionProjects/B.Count Characters/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/B.Count Characters/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:\CLion-2020.3.2\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\J__El_Halazona.dir/objects.a
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe cr CMakeFiles\J__El_Halazona.dir/objects.a @CMakeFiles\J__El_Halazona.dir\objects1.rsp
+C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\J__El_Halazona.dir/objects.a -Wl,--no-whole-archive  -o J__El_Halazona.exe -Wl,--out-implib,libJ__El_Halazona.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\J__El_Halazona.dir\linklibs.rsp

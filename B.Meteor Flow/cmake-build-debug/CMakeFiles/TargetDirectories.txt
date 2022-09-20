@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/B.Meteor Flow/cmake-build-debug/CMakeFiles/B_Meteor_Flow.dir
+C:/Users/ahmed/CLionProjects/B.Meteor Flow/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/B.Meteor Flow/cmake-build-debug/CMakeFiles/rebuild_cache.dir

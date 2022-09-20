@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/B. Forming Teams/cmake-build-debug/CMakeFiles/B__Forming_Teams.dir
+C:/Users/ahmed/CLionProjects/B. Forming Teams/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/B. Forming Teams/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/C. King's Path/cmake-build-debug/CMakeFiles/C__King_s_Path.dir
+C:/Users/ahmed/CLionProjects/C. King's Path/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/C. King's Path/cmake-build-debug/CMakeFiles/rebuild_cache.dir

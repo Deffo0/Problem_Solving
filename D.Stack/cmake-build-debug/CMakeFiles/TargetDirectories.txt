@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/D.Stack/cmake-build-debug/CMakeFiles/D_Stack.dir
+C:/Users/ahmed/CLionProjects/D.Stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/D.Stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/B.Aggressive cows/cmake-build-debug/CMakeFiles/B_Aggressive_cows.dir
+C:/Users/ahmed/CLionProjects/B.Aggressive cows/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/B.Aggressive cows/cmake-build-debug/CMakeFiles/rebuild_cache.dir

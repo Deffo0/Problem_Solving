@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/B. Red and Blue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ahmed/CLionProjects/B. Red and Blue/cmake-build-debug/CMakeFiles/B__Red_and_Blue.dir
+C:/Users/ahmed/CLionProjects/B. Red and Blue/cmake-build-debug/CMakeFiles/edit_cache.dir

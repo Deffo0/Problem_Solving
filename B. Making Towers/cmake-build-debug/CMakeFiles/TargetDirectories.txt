@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/B. Making Towers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ahmed/CLionProjects/B. Making Towers/cmake-build-debug/CMakeFiles/B__Making_Towers.dir
+C:/Users/ahmed/CLionProjects/B. Making Towers/cmake-build-debug/CMakeFiles/edit_cache.dir

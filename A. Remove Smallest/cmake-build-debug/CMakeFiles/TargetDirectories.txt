@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/A. Remove Smallest/cmake-build-debug/CMakeFiles/A__Remove_Smallest.dir
+C:/Users/ahmed/CLionProjects/A. Remove Smallest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/A. Remove Smallest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/A. Winner/cmake-build-debug/CMakeFiles/A__Winner.dir
+C:/Users/ahmed/CLionProjects/A. Winner/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/A. Winner/cmake-build-debug/CMakeFiles/rebuild_cache.dir

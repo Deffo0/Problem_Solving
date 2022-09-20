@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/C.Sort the array/cmake-build-debug/CMakeFiles/C_Sort_the_array.dir
+C:/Users/ahmed/CLionProjects/C.Sort the array/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/C.Sort the array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

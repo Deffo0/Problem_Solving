@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/D.The first missing number/cmake-build-debug/CMakeFiles/D_The_first_missing_number.dir
+C:/Users/ahmed/CLionProjects/D.The first missing number/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/D.The first missing number/cmake-build-debug/CMakeFiles/rebuild_cache.dir

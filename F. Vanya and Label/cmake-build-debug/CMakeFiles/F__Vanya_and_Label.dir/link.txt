@@ -1,0 +1,3 @@
+C:\CLion-2020.3.2\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\F__Vanya_and_Label.dir/objects.a
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe cr CMakeFiles\F__Vanya_and_Label.dir/objects.a @CMakeFiles\F__Vanya_and_Label.dir\objects1.rsp
+C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\F__Vanya_and_Label.dir/objects.a -Wl,--no-whole-archive  -o F__Vanya_and_Label.exe -Wl,--out-implib,libF__Vanya_and_Label.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\F__Vanya_and_Label.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/I.Interesting drink/cmake-build-debug/CMakeFiles/I_Interesting_drink.dir
+C:/Users/ahmed/CLionProjects/I.Interesting drink/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/I.Interesting drink/cmake-build-debug/CMakeFiles/rebuild_cache.dir
